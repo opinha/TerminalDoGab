@@ -29,4 +29,21 @@ Este é um terminal simples implementado em Java que suporta comandos básicos d
 
 ## Exemplo de Uso
 
-Após iniciar o terminal, você verá um prompt semelhante a este:
+## Após iniciar o terminal, você verá um prompt semelhante a este:
+
+C:\Users\gabri>
+
+## Você pode começar a digitar os comandos, como:
+
+pwd
+ls
+cd Projetos
+mkdir novo_diretorio
+echo "Leandro!" > arquivo.txt
+cat arquivo.txt
+history
+help
+
+## Para sair do terminal, digite:
+
+exit
